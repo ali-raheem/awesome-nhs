@@ -14,7 +14,7 @@ A curated list of stuff for free-ish for NHS staff.
 * ~~Costa 50% off~~
 * ~~McDonalds free coffee~~
 * ~~Starbucks free filter coffee~~
-* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £4 to give NHS workers a 4 pack of beer.
+* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.
 
 # Perks
 * ASDA first hour of day NHS only shopping
