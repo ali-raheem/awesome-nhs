@@ -3,19 +3,26 @@
 A curated list of stuff for free-ish for NHS staff.
 
 ## Personal items
-* [Glassesdirect.co.uk](https://www.glassesdirect.co.uk/help/nhs-staff-terms-and-conditions/) £10 glasses - Upto £20 frame + Silver lens package (scratch resistance, antireflective)
 * [Gillette](https://www.gillette.co.uk/nhsfrontline.list?utm_source=nhs-frontline-march-workflow-580) Free Mach3 razor, travel case and travel foam. Must sign up with NHS account
+* [Glassesdirect.co.uk](https://www.glassesdirect.co.uk/help/nhs-staff-terms-and-conditions/) £10 glasses - Upto £20 frame + Silver lens package (scratch resistance, antireflective)
 
+## Services
+* [Headspace](https://help.headspace.com/hc/en-us/articles/360044971154-Headspace-for-the-NHS) Free until end of 2020.
 
 ## Food and Drinks
 * [Brewdog](https://www.brewdog.com/uk/drivethru) 50% off for NHS staff
-* Dominos free medium pizza (certain venues)
-* ~~Nandos 50% off~~
-* ~~Costa 50% off~~
+* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.* Dominos free medium pizza (certain venues)
+* Costa various offers in hospital locations
 * ~~McDonalds free coffee~~
+* ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
-* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.
+* WH Smith 20% off in hospital locations
 
-# Perks
-* ASDA first hour of day NHS only shopping
-* Tesco first hour of day NHS only shopping
+# NHS hours
+* Aldi 30mins early opening
+* ASDA Monday, Wednesday and Friday 8-9am
+* Co-operative Monday-Saturday 8-9am, Sunday 10-11am
+* Iceland Monday-Friday last hour
+* Marks and Spencers Tuesday-Friday first hour
+* Sainsbury's 730-8am
+* Tesco Sunday start shopping 1 hour before checkouts open
