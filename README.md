@@ -32,4 +32,4 @@ A curated list of stuff for free-ish for NHS staff.
 
 ## Transport
 
-* [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips or £10.
+* [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
