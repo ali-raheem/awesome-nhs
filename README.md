@@ -8,7 +8,6 @@ A curated list of stuff for free-ish for NHS staff.
 * [Holland & Ballett](https://www.hollandandbarrett.com/info/nhs/) 30% off own brand and 15% branded items.
 
 ## Services
-* [Halfords](https://www.halfords.com/customer-services/shopping-at-halfords/covid-19-updates.html#nhs-pledge) Free motoring check, free bike service, 10% of new bike tyres
 * [Headspace](https://help.headspace.com/hc/en-us/articles/360044971154-Headspace-for-the-NHS) Free until end of 2020.
 
 ## Food and Drinks
@@ -31,5 +30,5 @@ A curated list of stuff for free-ish for NHS staff.
 * Tesco Sunday start shopping 1 hour before checkouts open
 
 ## Transport
-
+* [Halfords](https://www.halfords.com/customer-services/shopping-at-halfords/covid-19-updates.html#nhs-pledge) Free motoring check, free bike service, 10% of new bike tyres
 * [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
