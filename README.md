@@ -12,7 +12,8 @@ A curated list of stuff for free-ish for NHS staff.
 
 ## Food and Drinks
 * [Brewdog](https://www.brewdog.com/uk/drivethru) 50% off for NHS staff
-* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.* Dominos free medium pizza (certain venues)
+* [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.
+* Dominos free medium pizza (certain venues)
 * Costa various offers in hospital locations
 * [Just-Eat.co.uk](https://www.just-eat.co.uk/explore/nhs-discount) 25% off
 * ~~McDonalds free coffee~~
