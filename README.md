@@ -8,7 +8,10 @@ A curated list of stuff for free-ish for NHS staff.
 * [Holland & Ballett](https://www.hollandandbarrett.com/info/nhs/) 30% off own brand and 15% branded items.
 
 ## Services
+* [Daylight](http://trydaylight.com/nhs-staff) Mental health platform to help with anxiety and worry
 * [Headspace](https://help.headspace.com/hc/en-us/articles/360044971154-Headspace-for-the-NHS) Free until end of 2020.
+* [Sleepio](http://sleepio.com/nhs-staff) Sleep improvement platform, free until end of 2020.
+* [Unmind](https://nhs.unmind.com/signup) - Unmind mental health platform free until end of 2020.
 
 ## Food and Drinks
 * [Brewdog](https://www.brewdog.com/uk/drivethru) 50% off for NHS staff
