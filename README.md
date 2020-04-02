@@ -23,7 +23,7 @@ A curated list of stuff for free-ish for NHS staff.
 * ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
 * WH Smith 20% off in hospital locations
-* [Uber eats] (https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) free meals
+* [Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 5 x £10 off orders
 
 ## NHS hours
 * Aldi 30mins early opening
@@ -37,4 +37,4 @@ A curated list of stuff for free-ish for NHS staff.
 ## Transport
 * [Halfords](https://www.halfords.com/customer-services/shopping-at-halfords/covid-19-updates.html#nhs-pledge) Free motoring check, free bike service, 10% of new bike tyres
 * [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
-* [Uber] (https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trip 
+* [Uber] (https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips
