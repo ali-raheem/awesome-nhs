@@ -49,9 +49,10 @@ A curated list of stuff for free-ish for NHS staff. If there is a problem with o
 * [Halfords](https://www.halfords.com/customer-services/shopping-at-halfords/covid-19-updates.html#nhs-pledge) Free motoring check, free bike service, 10% of new bike tyres
 * [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
 * [NCP](https://www.ncp.co.uk/parking-solutions/free-parking-nhs-staff/) - offering free car parking for key workers at certain locations
-* [Uber](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips
+* [Uber](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips, new to Uber? Check out referal code for even more discounts.
 * [Vauxhall](https://www.vauxhall.co.uk/index.html) Free road side assistance for NHS staff.
 
 ## Referal Chains
 * [SMARTY Mobile](http://referme.to/UqTWTpx) 1 Month free code. Cheap mobile plans focusing on high speed high data usage.
 * Cineworld - Free month promo code `RAF-85NY-69WZ-04BC-20GD`
+* Uber `ud7yv9`
