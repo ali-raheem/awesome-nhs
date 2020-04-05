@@ -2,15 +2,18 @@
 
 A curated list of stuff for free-ish for NHS staff.
 
-## Personal items
+## Home
 
-### Healthcare
+### Personal Items
 * [Gillette](https://www.gillette.co.uk/nhsfrontline.list?utm_source=nhs-frontline-march-workflow-580) Free Mach3 razor, travel case and travel foam. Must sign up with NHS account
 * [Glassesdirect.co.uk](https://www.glassesdirect.co.uk/help/nhs-staff-terms-and-conditions/) £10 glasses - Upto £20 frame + Silver lens package (scratch resistance, antireflective)
 * [Holland & Ballett](https://www.hollandandbarrett.com/info/nhs/) 30% off own brand and 15% branded items.
 
 ### Clothing
 * [SnagTights](https://snagtights.com/pages/tights-for-nhs) Free pair of tights for NHS workers.
+
+### Pets
+* [PetsAtHome](https://www.petsathome.com/shop/en/pets/pet-talk/pets-and-coronavirus-our-story) 10% off, priority shopping times (see below) and checkout.
 
 ## Services
 * [Daylight](http://trydaylight.com/nhs-staff) Mental health platform to help with anxiety and worry
@@ -36,6 +39,7 @@ A curated list of stuff for free-ish for NHS staff.
 * Co-operative Monday-Saturday 8-9am, Sunday 10-11am
 * Iceland Monday-Friday last hour
 * Marks and Spencers Tuesday-Friday first hour
+* [PetsAtHome](https://www.petsathome.com/shop/en/pets/pet-talk/pets-and-coronavirus-our-story) Mondays, Wednesdays and Fridays 8 to 9 am. Also priorty checkout at other times.
 * Sainsbury's 730-8am
 * Tesco Sunday start shopping 1 hour before checkouts open
 
@@ -50,4 +54,4 @@ A curated list of stuff for free-ish for NHS staff.
 
 ## Referal Chains
 * [SMARTY Mobile](http://referme.to/UqTWTpx) 1 Month free code. Cheap mobile plans focusing on high speed high data usage.
-* 
+* Cineworld - Free month promo code `RAF-85NY-69WZ-04BC-20GD`
