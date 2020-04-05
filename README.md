@@ -3,9 +3,14 @@
 A curated list of stuff for free-ish for NHS staff.
 
 ## Personal items
+
+### Healthcare
 * [Gillette](https://www.gillette.co.uk/nhsfrontline.list?utm_source=nhs-frontline-march-workflow-580) Free Mach3 razor, travel case and travel foam. Must sign up with NHS account
 * [Glassesdirect.co.uk](https://www.glassesdirect.co.uk/help/nhs-staff-terms-and-conditions/) £10 glasses - Upto £20 frame + Silver lens package (scratch resistance, antireflective)
 * [Holland & Ballett](https://www.hollandandbarrett.com/info/nhs/) 30% off own brand and 15% branded items.
+
+### Clothing
+* [SnagTights](https://snagtights.com/pages/tights-for-nhs) Free pair of tights for NHS workers.
 
 ## Services
 * [Daylight](http://trydaylight.com/nhs-staff) Mental health platform to help with anxiety and worry
@@ -41,6 +46,7 @@ A curated list of stuff for free-ish for NHS staff.
 * [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
 * [NCP](https://www.ncp.co.uk/parking-solutions/free-parking-nhs-staff/) - offering free car parking for key workers at certain locations
 * [Uber](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips
+* [Vauxhall](https://www.vauxhall.co.uk/index.html) Free road side assistance for NHS staff.
 
 ## Referal Chains
 * [SMARTY Mobile](http://referme.to/UqTWTpx) 1 Month free code. Cheap mobile plans focusing on high speed high data usage.
