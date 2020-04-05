@@ -31,7 +31,7 @@ A curated list of stuff for free-ish for NHS staff. If there is a problem with o
 * ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
 * WH Smith 20% off in hospital locations
-* [Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 5 x £10 off orders
+* ~~[Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 5 x £10 off orders~~
 
 ## NHS hours
 * Aldi 30mins early opening
