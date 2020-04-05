@@ -1,6 +1,6 @@
 # Awesome NHS
 
-A curated list of stuff for free-ish for NHS staff.
+A curated list of stuff for free-ish for NHS staff. If there is a problem with one of these deals or you want to add a deal open an [issue](https://github.com/ali-raheem/awesome-nhs/issues) or email me at awesome-nhs@ shoryuken.me 
 
 ## Home
 
