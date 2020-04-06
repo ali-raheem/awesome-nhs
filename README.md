@@ -4,6 +4,16 @@ A curated list of stuff for free-ish for NHS staff. If there is a problem with o
 
 The majority of these discounts require you to either show an NHS ID or have an NHS.net (or sometimes .nhs.uk will work) account.
 
+- [Home](#home)
+  * [Personal Items](#personal-items)
+  * [Clothing](#clothing)
+  * [Pets](#pets)
+- [Services](#services)
+- [Food and Drinks](#food-and-drinks)
+- [NHS hours](#nhs-hours)
+- [Transport](#transport)
+- [Referal Chains](#referal-chains)
+
 ## Home
 
 ### Personal Items
