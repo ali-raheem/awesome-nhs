@@ -30,6 +30,8 @@ The majority of these discounts require you to either show an NHS ID or have an 
 * Dominos free medium pizza (certain venues)
 * Costa various offers in hospital locations
 * [Just-Eat.co.uk](https://www.just-eat.co.uk/explore/nhs-discount) 25% off
+* [Las Iguanas](https://www.iguanas.co.uk/faq) 50% off hot delivery/take away for
+* [Leon](https://leon.co/nhs/) 50% off
 * ~~McDonalds free coffee~~
 * ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
