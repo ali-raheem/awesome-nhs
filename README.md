@@ -7,6 +7,7 @@ The majority of these discounts require you to either show an NHS ID or have an 
 ## Home
 
 ### Personal Items
+* [Bloom & Wild](https://www.bloomandwild.com/public-services-discount) 40% off flowers
 * [Gillette](https://www.gillette.co.uk/nhsfrontline.list?utm_source=nhs-frontline-march-workflow-580) Free Mach3 razor, travel case and travel foam. Must sign up with NHS account
 * [Glassesdirect.co.uk](https://www.glassesdirect.co.uk/help/nhs-staff-terms-and-conditions/) £10 glasses - Upto £20 frame + Silver lens package (scratch resistance, antireflective)
 * [Holland & Ballett](https://www.hollandandbarrett.com/info/nhs/) 30% off own brand and 15% branded items.
