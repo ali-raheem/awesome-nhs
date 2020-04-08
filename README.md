@@ -47,7 +47,7 @@ The majority of these discounts require you to either show an NHS ID or have an 
 * ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
 * WH Smith 20% off in hospital locations
-* ~~[Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 5 x £10 off orders~~
+* [Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 2 x £13.50 off orders pr week
 
 ## NHS hours
 * Aldi 30mins early opening
