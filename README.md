@@ -30,6 +30,7 @@ The majority of these discounts require you to either show an NHS ID or have an 
 
 ## Services
 * [Daylight](http://trydaylight.com/nhs-staff) Mental health platform to help with anxiety and worry
+* [EE](https://nhsunlimited.ee.co.uk/) Unlimited Data until 9th October 2020.
 * [FiiT](https://getfiit.tv/nhs) - 3 Months free FiiT premium for NHS staff.
 * [Headspace](https://help.headspace.com/hc/en-us/articles/360044971154-Headspace-for-the-NHS) Free until end of 2020.
 * [Sleepio](http://sleepio.com/nhs-staff) Sleep improvement platform, free until end of 2020.
@@ -38,8 +39,9 @@ The majority of these discounts require you to either show an NHS ID or have an 
 ## Food and Drinks
 * [Brewdog](https://www.brewdog.com/uk/drivethru) 50% off for NHS staff
 * [Brewgooders](https://www.brewgooder.com/oneonus) **warning** paid for by customers. Customers can donate £6 to give NHS workers a 4 pack of beer.
-* Dominos free medium pizza (certain venues)
 * Costa various offers in hospital locations
+* Dominos free medium pizza (certain venues)
+* [Hotel Chocolat]https://www.hotelchocolat.com/uk/nhs-blue-light-card.html) 50% off until 30th April 2020
 * [Just-Eat.co.uk](https://www.just-eat.co.uk/explore/nhs-discount) 25% off
 * [Las Iguanas](https://www.iguanas.co.uk/faq) 50% off hot delivery/take away for
 * [Leon](https://leon.co/nhs/) 50% off
