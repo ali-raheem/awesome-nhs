@@ -49,7 +49,7 @@ The majority of these discounts require you to either show an NHS ID or have an 
 * ~~Nandos 50% off~~
 * ~~Starbucks free filter coffee~~
 * WH Smith 20% off in hospital locations
-* [Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 2 x £13.50 off orders pr week
+* ~~[Uber eats](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) 2 x £13.50 off orders per week~~
 
 ## NHS hours
 * Aldi 30mins early opening
@@ -67,7 +67,7 @@ The majority of these discounts require you to either show an NHS ID or have an 
 * [Halfords](https://www.halfords.com/customer-services/shopping-at-halfords/covid-19-updates.html#nhs-pledge) Free motoring check, free bike service, 10% of new bike tyres
 * [Jump](https://www.jump.com/gb/en/nhs/) Free use of Uber Jump bikes up to 50 trips (max £10/trip).
 * [NCP](https://www.ncp.co.uk/parking-solutions/free-parking-nhs-staff/) - offering free car parking for key workers at certain locations
-* [Uber](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips, new to Uber? Check out referal code for even more discounts.
+* ~~[Uber](https://www.uber.com/gb/en/u/nhs-hsc-covid-19/) Free rides - 10 x £15 off trips, new to Uber? Check out referal code for even more discounts.~~
 * [Vauxhall](https://www.vauxhall.co.uk/index.html) Free road side assistance for NHS staff.
 
 ## Referal Chains
